@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite Selenium EXPLORER">
+	<parameter name="platform" value="WINDOWS" />
+	<parameter name="bits" value="32" />
+	<parameter name="browser" value="EXPLORER" />
+	<parameter name="remote" value="NO" />
+	<parameter name="version" value="11" />
+
+    <test name="TEST-1_LONDON"><classes><class name="io.zahori.example.aat.tests.FlowsTest"/></classes></test>
+    <test name="TEST-2_MADRID"><classes><class name="io.zahori.example.aat.tests.FlowsTest"/></classes></test>
+
+</suite>

@@ -1,0 +1,13 @@
+*.project
+*.settings
+*.prefs
+*.classpath
+*.7z
+example-e2e-tests_aat/target/
+example-e2e-tests_aat/test-output/
+example-e2e-tests_app/target/
+.idea/
+*.iml
+.metadata/
+
+target/
