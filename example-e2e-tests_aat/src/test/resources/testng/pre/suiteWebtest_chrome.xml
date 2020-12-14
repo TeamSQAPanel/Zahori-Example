@@ -5,7 +5,7 @@
 	<parameter name="bits" value="32" />
 	<parameter name="browser" value="CHROME" />
 	<parameter name="remote" value="NO" />
-	<parameter name="version" value="80.0.3987.132" />
+	<parameter name="version" value="87" />
 
     <test name="TEST-1_LONDON"><classes><class name="io.zahori.example.aat.tests.FlowsTest"/></classes></test>
     <test name="TEST-2_MADRID"><classes><class name="io.zahori.example.aat.tests.FlowsTest"/></classes></test>
